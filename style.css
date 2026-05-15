@@ -1,0 +1,93 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: burlywood
+
+}
+
+
+
+.portfolio{
+width: 400px;
+margin: auto;
+background: rgba(255, 255, 255, 0.655);
+padding: 20px;
+margin-top: 20px;
+border-radius: 50px;
+box-shadow: 0 0 10px rgba(0, 0, 0 , 1);
+
+
+
+
+}
+
+.pic{
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 20%;
+    object-fit: cover;
+}
+
+
+
+.about{
+width: 400px;
+margin: auto;
+background: rgba(255, 255, 255, 0.655);
+padding: 20px;
+margin-top: 20px;
+border-radius: 50px;
+box-shadow: 0 0 10px rgba(0, 0, 0 , 1);
+margin-bottom: 21px;
+
+}
+
+h1{
+    font-style: italic;
+    color: #333;
+}
+
+h2{
+    color: #555;
+    border-bottom: 2px solid #ddd;
+    padding: 5px;
+}
+p{
+line-height: 1.6;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.flow{
+display: flex;
+    padding: 20px;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    
+}
+
+.Education{
+    width: 400px;
+margin: auto;
+background: rgba(255, 255, 255, 0.655);
+padding: 20px;
+margin-top: 20px;
+border-radius: 50px;
+box-shadow: 0 0 10px rgba(0, 0, 0 , 1);
+margin-bottom: 20px;
+}
+
+
+
+.skills{
+  width: 400px;
+margin: auto;
+background: rgba(255, 255, 255, 0.655);
+padding: 20px;
+margin-top: 20px;
+border-radius: 50px;
+box-shadow: 0 0 10px rgba(0, 0, 0 , 1);
+margin-bottom: 20px;
+}
